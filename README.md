@@ -1,9 +1,9 @@
 # Overview
-This Excel dashboard 📊 is to analyzes road accident data and identifies patterns and trends that can help improve road safety. Imported 3.07 million of data with 21 fields into Excel and cleaned it to ensure it was accurate and ready for analysis. The data includes information about accidents, such as the number of vehicles involved, severity of the accident, and the location and time of the accident.Clients want to create a road accident dashboard for the years 2021 and 2022 so that they can have insight into the requirements. Prepared the dashboard according to client's Requirements:
+This Excel dashboard 📊 is to analyze road accident data and identify patterns and trends that can help improve road safety. Imported 3.07 million of data with 21 fields into Excel and cleaned it to ensure it was accurate and ready for analysis. The data includes information about accidents, such as the number of vehicles involved, the accident's severity, and the accident's location and time. Clients want to create a road accident dashboard for the years 2021 and 2022 so that they can have insight into the requirements. Prepared the dashboard according to client's Requirements:
 
 🔑 Key insights :
 ◼ Total Casualties that took place after the accident is 417883
-◼ Maximum Casualties happened by Car (333485) which is 79.8% of total Casualties and minimum by others 3424
+◼ Maximum Casualties happened by Car (333485), which is 79.8% of total Casualties and minimum by others 3424
 ◼ Total Casualties that took place in the Year 2021 & 2022 is 222146 and 195737.
 ◼ Maximum Casualties happened in the month of November 2021 and Minimum in February 2021.
 ◼ Maximum Casualties happened in the month of November 2022 and Minimum in January 2022.
