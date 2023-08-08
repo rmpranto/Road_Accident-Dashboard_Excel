@@ -3,7 +3,7 @@ This Excel dashboard 📊 is to analyze road accident data and identify patterns
 
 🔑 Key insights :
 ◼ Total Casualties that took place after the accident is 417883
-◼ Maximum Casualties happened by Car (333485), which is 79.8% of total Casualties and minimum by others 3424
+◼ Maximum Casualties happened by Car (333485), which is 79.8% of total Casualties, and minimum by others 3424
 ◼ Total Casualties that took place in the Year 2021 & 2022 is 222146 and 195737.
 ◼ Maximum Casualties happened in the month of November 2021 and Minimum in February 2021.
 ◼ Maximum Casualties happened in the month of November 2022 and Minimum in January 2022.
@@ -13,7 +13,7 @@ This Excel dashboard 📊 is to analyze road accident data and identify patterns
 🛠 Tools Used - Microsoft Excel.
 
 Steps Followed:
-◼ Requirement gathering from client
+◼ Requirement gathering from the client
 ◼ Identify the Stakeholders of the Project
 ◼ Data Cleaning: This step includes removing inconsistencies in data, errors, and duplicates and ensuring that the data I worked with is accurate and reliable for further analysis.
 ◼ Data Processing: Creating some customized columns that involved organizing, sorting, and filtering the data to extract meaningful insights.
